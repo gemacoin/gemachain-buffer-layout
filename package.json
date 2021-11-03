@@ -29,7 +29,7 @@
     "email": "pab@pabigot.com"
   },
   "bugs": {
-    "url": "https://github.com/ManojSharma5500/buf_lyout/issues"
+    "url": "https://github.com/gemacoin/gemachain-buffer-layout/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -57,7 +57,7 @@
   "files": [
     "/lib"
   ],
-  "homepage": "https://github.com/ManojSharma5500/buf_lyout#readme",
+  "homepage": "https://github.com/gemacoin/gemachain-buffer-layout#readme",
   "keywords": [
     "Buffer",
     "struct",
@@ -69,7 +69,7 @@
   "name": "@gemachain/buffer-layout",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ManojSharma5500/buf_lyout.git"
+    "url": "git+https://github.com/gemacoin/gemachain-buffer-layout.git"
   },
   "scripts": {
     "build": "tsc",
